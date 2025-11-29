@@ -1,0 +1,14 @@
+# Blog metadata
+title: "Chen (Benjamin) Hsieh"
+description: "Nothing here is finished. That's the point."
+
+# Appearance
+theme: "rose-pine"
+font: "inter"
+
+# Features
+show_toc: true
+show_repo_link: true
+
+# Analytics (optional)
+# ga_id: "G-XXXXXXXXXX"

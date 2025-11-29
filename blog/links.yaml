@@ -1,0 +1,13 @@
+title: "Let's Connect"
+description: "Find me around the web"
+links:
+  - label: "GitHub"
+    url: "https://github.com/ChenHsieh"
+  - label: "LinkedIn"
+    url: "https://www.linkedin.com/in/chen-hsieh/"
+  - label: "Personal Website"
+    url: "https://chenhsieh.xyz/"
+  - label: "Email"
+    url: "mailto:chen.hsieh.uga@gmail.com"
+  - label: "Projects"
+    url: "https://chenhsieh.xyz/projects"
